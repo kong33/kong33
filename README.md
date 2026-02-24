@@ -1,16 +1,28 @@
-## Hi there 👋
-https://gitlab.liu.se/emilo851/TDDD27_2025
-<!--
-**kong33/kong33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# [Gaeun Kim]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Full stack Developer] · [Seoul, Korea]**
+
+[kge0211114@gmail.com](mailto:kge0211114@gmail.com)
+
+</div>
+
+---
+
+I'm a web developer who cares about [being efficient, humble, keep learning].
+
+Currently [open to opportunities] — focused on [finding a team that i can contribute my best self and glow with my team].
+
+---
+
+## Stack
+
+`TypeScript` `React` `Next.js` `PostgreSQL` `MySQL` `python`
+
+---
+
+## A bit more
+
+- 🌍 Based in [Seoul] — open to remote / relocation
+- 🗣️ Languages: Korean (native), English (professional)
