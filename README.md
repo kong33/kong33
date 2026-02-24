@@ -10,9 +10,9 @@
 
 ---
 
-I'm a web developer who cares about [being efficient, humble, keep learning].
+I'm a web developer who cares about **being efficient, humble, keep learning**.
 
-Currently [open to opportunities] — focused on [finding a team that i can contribute my best self and glow with my team].
+Currently [open to opportunities] — focused on **finding a team that i can contribute my best self and glow with my team**.
 
 ---
 
