@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 README_PATH = Path("README.md")
-INDEX_PATH = Path("daily_dev_news/news/index.json")
+INDEX_PATH = Path("dev-news-log/news/index.json")
 
 START = "<!-- DEV-NEWS-LIST:START -->"
 END = "<!-- DEV-NEWS-LIST:END -->"
