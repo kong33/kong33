@@ -2,12 +2,12 @@ import json
 from pathlib import Path
 
 README_PATH = Path("README.md")
-INDEX_PATH = Path("dev-news-log/news/index.json")
+INDEX_PATH = Path("daily_dev_news/news/index.json")
 
 START = "<!-- DEV-NEWS-LIST:START -->"
 END = "<!-- DEV-NEWS-LIST:END -->"
 
-PROFILE_NEWS_REPO = "https://github.com/kong33/dev-news-log/blob/main"
+PROFILE_NEWS_REPO = "https://github.com/kong33/daily_dev_news/blob/main"
 
 def build_news_list(items, limit=5):
     lines = []
