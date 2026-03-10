@@ -19,7 +19,7 @@ jobs:
       - name: Checkout dev news repo
         uses: actions/checkout@v4
         with:
-          repository: kong33/dev-news-log
+          repository: kong33/daily_dev_news
           path: dev-news-log
 
       - name: Set up Python
