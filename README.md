@@ -26,7 +26,7 @@ Currently [open to opportunities] — focused on **finding a team that i can con
 ## Latest Dev News 🗞️
 
 <!-- DEV-NEWS-LIST:START -->
-- Loading latest news...
+- **2026-03-10** — [txiki.js: tiny runtime, big energy](https://github.com/kong33/daily_dev_news/blob/main/news/2026-03-10-txikijs.md)
 <!-- DEV-NEWS-LIST:END -->
 
 
