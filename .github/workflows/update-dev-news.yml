@@ -1,39 +1,10 @@
-name: Update latest dev news
+name: Test workflow
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
-
-permissions:
-  contents: write
 
 jobs:
-  update-readme:
+  test:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout profile repo
-        uses: actions/checkout@v4
-
-      - name: Checkout dev news repo
-        uses: actions/checkout@v4
-        with:
-          repository: kong33/daily_dev_news
-          path: dev-news-log
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Update README
-        run: python scripts/update_dev_news.py
-
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --cached --quiet || git commit -m "Update latest dev news"
-          git push
+      - run: echo "hello"
