@@ -21,7 +21,7 @@ Currently [open to opportunities] — focused on **finding a team that i can con
 Languages: `TypeScript`, `JavaScript`, `Python` <br/>
 Frontend: `Next.js`, `React`, `Zustand`, `TanStack Query`, `SCSS` <br/>
 Backend: `Node.js`, `REST APIs`, `Next.js Route Handlers`<br/>
-Database: `PostgreSQL`, `MySQL`, `SQL`, `Prisma`<br/>
+Database: `PostgreSQL`, `MySQL`, `SQL`, `SQLite`, `Prisma`<br/>
 Tools: `Git`, `GitHub Actions`, `Vercel`, `Jira`, `Google Analytics`<br/>
 AI/ML: `Google Colab`, `Cursor`<br/>
 
