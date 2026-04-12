@@ -32,6 +32,8 @@ AI/ML: `Google Colab`, `Cursor`<br/>
 ## Latest Dev News 🗞️
 
 <!-- DEV-NEWS-LIST:START -->
+- **2026-04-12** — [LRU vs TTL](https://github.com/kong33/daily_dev_news/blob/main/news/2026-04-12-cache_strategy.md)
+- **2026-03-12** — [google workspace cli](https://github.com/kong33/daily_dev_news/blob/main/news/2026-03-12-google_workspace_cli.md)
 - **2026-03-10** — [txiki.js: tiny runtime, big energy](https://github.com/kong33/daily_dev_news/blob/main/news/2026-03-10-txikijs.md)
 <!-- DEV-NEWS-LIST:END -->
 
