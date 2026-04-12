@@ -14,16 +14,16 @@ jobs:
 
     steps:
       - name: Checkout profile repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Checkout dev news repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: kong33/daily_dev_news
           path: dev-news-log
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
