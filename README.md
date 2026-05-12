@@ -38,8 +38,3 @@ AI/ML: `Google Colab`, `Cursor`<br/>
 - **2026-03-10** — [txiki.js: tiny runtime, big energy](https://github.com/kong33/daily_dev_news/blob/main/news/2026-03-10-txikijs.md)
 <!-- DEV-NEWS-LIST:END -->
 
-
-## A bit more
-
-- 🌍 Based in [Seoul] — open to remote / relocation
-- 🗣️ Languages: Korean (native), English (professional)
