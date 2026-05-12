@@ -2,7 +2,7 @@
 
 # [Gaeun Kim]
 
-**[Full stack Developer] · [Seoul, Korea]**
+**[Full stack Developer]**
 
 [kge0211114@gmail.com](mailto:kge0211114@gmail.com)
 
